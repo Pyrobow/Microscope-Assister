@@ -1,0 +1,18 @@
+The Type of Group/Person this is (if applicable):
+Heretic
+Scientist
+Zealot
+Soldier
+Philosopher 
+Religious Figure
+Prophet
+Activist
+Psychic
+Wizard
+Political Figure
+Ruler
+Engineer/Smith
+Acedemic
+Criminal
+Entertainer
+Spy
