@@ -1,0 +1,5 @@
+The Generated Event Affects:
+The Previous Event/Period
+The Period/Event to the Left of the Previous
+The Period/Event to the Right of the Previous
+Random

@@ -1,0 +1,31 @@
+The General Catagory is:
+A Person Rises
+A Person Falls
+An Empire/Kingdom Rises
+An Empire/Kindom Falls
+A Rebellion Occurs
+A Rebellion Succeeds/Fails
+A New Technology is Developed
+An Advanced Technology is Lost
+A New Power Enters the Scene
+A War With a Rival Begins
+A Ruler is Assassinated 
+An Army/Fleet is Lost
+A Battle is Won
+A Battle is Lost
+A City is Founded
+A City falls into Ruin
+A City is Destroyed
+A Secret Organisation is Founded
+A Secret Organisation is Uncovered
+A Secret Organisation is Destroyed 
+A Secret Organisation Succeeds 
+A Great Tradgedy Occurs
+A Plague Starts
+A Plague is Cured
+An Object of Great Power is Made
+A Heroic Moment Occurs
+There's a Famine/Period of Plenty
+There's a Natural Disaster
+Peace
+A Golden Age/Dark Age 
