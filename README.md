@@ -6,3 +6,5 @@ Ever wanted to use the Microscope rpg for world building but don't want your pla
 Currently it is quite barebones and just runs in command line. In the future it will have a proper user interface.
 
 You still need the rules of Microscope to use this effectively, it is only designed to be an aid.
+
+To use the generator, just run the generator_main.py file.
